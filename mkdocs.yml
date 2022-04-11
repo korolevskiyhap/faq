@@ -18,6 +18,7 @@ theme:
 
 nav:
   - Правила: rules.md
+  - Оплата: payment_sanctions.md
   - Товары: content.md
   - Стражник: gatekeeper.md
   - Кнопка: knopka.md
