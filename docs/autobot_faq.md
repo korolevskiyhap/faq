@@ -76,3 +76,4 @@ https://wbxcatalog-ru.wildberries.ru/nm-2-card/catalog?nm=43086895&regions=58&st
 В этой ссылке: 43086895 - артикул товара.  
 В полученном ответе supplierId - это и есть искомый идентификатор поставщика.  
 https://www.wildberries.ru/seller/32477 - все товары поставщика
+
