@@ -6,13 +6,13 @@ theme:
   #custom_dir: theme
   icon:
     logo: material/book-open-page-variant
-  #palette:
-  #  scheme: dracula
-  #  primary: deep purple
-  #  accent: deep purple
-  font:
-    text: Roboto
-    code: Roboto Mono
+  palette:
+    scheme: dracula
+    primary: deep purple
+    accent: deep purple
+  #font:
+  #  text: Roboto
+  #  code: Roboto Mono
   # features:
   #   - navigation.tabs
 
