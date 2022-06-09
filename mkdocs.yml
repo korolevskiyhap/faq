@@ -3,13 +3,13 @@ site_description: Ответы на частые вопросы по боту К
 
 theme:
   name: material
-  custom_dir: theme
+  #custom_dir: theme
   icon:
     logo: material/book-open-page-variant
-  palette:
-    scheme: dracula
-    primary: deep purple
-    accent: deep purple
+  #palette:
+  #  scheme: dracula
+  #  primary: deep purple
+  #  accent: deep purple
   font:
     text: Roboto
     code: Roboto Mono
