@@ -72,7 +72,7 @@
 
 ## Как узнать идентификатор поставщика?
 Просто - никак, сложный путь такой:  
-https://wbxcatalog-ru.wildberries.ru/nm-2-card/catalog?nm=43086895&regions=58&stores=119261&locale=ru&version=3   
+https://card.wb.ru/cards/detail?appType=64&lang=ru&locale=ru&nm=43086895&pricemarginCoeff=1&pricemarginMax=0&pricemarginMin=0&reg=0&regions=1,4,22,30,31,33,38,40,48,64,66,68,69,70,71,75,80,83&spp=0&version=3
 В этой ссылке: 43086895 - артикул товара.  
 В полученном ответе supplierId - это и есть искомый идентификатор поставщика.  
 https://www.wildberries.ru/seller/32477 - все товары поставщика
